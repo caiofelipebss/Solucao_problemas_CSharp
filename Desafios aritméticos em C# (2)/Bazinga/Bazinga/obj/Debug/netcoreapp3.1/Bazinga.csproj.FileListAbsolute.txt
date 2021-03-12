@@ -1,0 +1,13 @@
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.exe
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.deps.json
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.runtimeconfig.json
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.runtimeconfig.dev.json
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.dll
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.pdb
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.csprojAssemblyReference.cache
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.AssemblyInfoInputs.cache
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.AssemblyInfo.cs
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.csproj.CoreCompileInputs.cache
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.dll
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.pdb
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Bazinga\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.genruntimeconfig.cache

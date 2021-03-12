@@ -1,0 +1,12 @@
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.exe
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.deps.json
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.runtimeconfig.json
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.runtimeconfig.dev.json
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.dll
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.pdb
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.AssemblyInfoInputs.cache
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.AssemblyInfo.cs
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.csproj.CoreCompileInputs.cache
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.dll
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.pdb
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\Piralandia\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.genruntimeconfig.cache

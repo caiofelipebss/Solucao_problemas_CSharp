@@ -1,0 +1,13 @@
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\netcoreapp3.1\TempoDeUmEvento.exe
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\netcoreapp3.1\TempoDeUmEvento.deps.json
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\netcoreapp3.1\TempoDeUmEvento.runtimeconfig.json
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\netcoreapp3.1\TempoDeUmEvento.runtimeconfig.dev.json
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\netcoreapp3.1\TempoDeUmEvento.dll
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\netcoreapp3.1\TempoDeUmEvento.pdb
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\netcoreapp3.1\TempoDeUmEvento.csprojAssemblyReference.cache
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\netcoreapp3.1\TempoDeUmEvento.AssemblyInfoInputs.cache
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\netcoreapp3.1\TempoDeUmEvento.AssemblyInfo.cs
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\netcoreapp3.1\TempoDeUmEvento.csproj.CoreCompileInputs.cache
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\netcoreapp3.1\TempoDeUmEvento.dll
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\netcoreapp3.1\TempoDeUmEvento.pdb
+D:\ADS\DIO\Soluções de problemas em C#\Desafios aritméticos em C# (2)\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\netcoreapp3.1\TempoDeUmEvento.genruntimeconfig.cache
